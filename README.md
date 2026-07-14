@@ -1,1 +1,3 @@
 # curriculo
+
+# Nome: Lucas Gabriel
